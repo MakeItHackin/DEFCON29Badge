@@ -1,1 +1,1 @@
-These are the Gerber Files used to make the PCBs
+These are the Gerber Files used to make the PCBs.  Make your own!

@@ -2,6 +2,10 @@
 
 I'll update this readme as time goes on, but yeah... this is my first official MakeItHackin unoffical DEF CON badge.
 
+Badges will feature an ATTiny85 Microcontroller, OLED Display, RGB LEDs, and a SAO connector for all your shitty add-ons.
+
+They will also include two security tags (applied in those blank spots).  One is for Checkpoint systems (8.2 MHz) and one is for Sensormatic systems (58 kHz).  Take your badge into any retail store and set off their alarms!  (just kidding, don't do that.)
+
 I'm going to make 25 of them.  Woo hoo!  
 
 Hack the Planet

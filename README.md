@@ -1,4 +1,4 @@
-# DEFCON29Badge
+# DEFCON29Badge and SAO
 
 I'll update this readme as time goes on, but yeah... this is my first official MakeItHackin unoffical DEF CON badge.
 
@@ -9,6 +9,8 @@ They will also include two security tags (applied in those blank spots).  One is
 It was difficult to think of a shape for the outline and I wanted to get them ordered ASAP, so I made the badge in the shape of a credit card to relate to the retail security theme.  
 
 I'm going to make 25 of them.  Woo hoo!  
+
+Also making 25 SAOs.  They will have 4 Neopixels, a Power LED, and a controllable LED.
 
 Hack the Planet
 

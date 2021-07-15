@@ -1,8 +1,8 @@
 Bill of Materials
 
-I'll update this later
+I'll update this later.  Need to add additional Power components for Badge and SAO components.
 
-
+BADGE
 Part   Value               Device                  Package                 Description                                                                                                                                                                                  
 BUTTON 5_1_SPST            5_1_SPST                5_1_SPST               Button                                                                                                                                                                                                                                                                                                             
 C1-C2     10uF                C-USC0805               C0805               CAPACITOR, American symbol
@@ -20,4 +20,5 @@ U$3    SAO-1.69            SAO-1.69                2X3-SHROUDED-FEMALE      SAO 
 U1     ATTINY85-20MUR      ATTINY85-20MUR          QFN50P400X400X80-21N    AVR AVR® ATtiny Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 20-QFN-EP 
 U2     ALS-PT19-315C       LIGHT_ALS-PT19-315C     ALS-PT19-315C           ALS-PT19-315C - Analog Light Sensor
 
-
+SAO
+add SAO components here

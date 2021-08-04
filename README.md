@@ -1,5 +1,5 @@
 # DEFCON29Badge and SAO
-==========================================================
+
 MAKEITHACKIN BADGE CTF INFORMATION WILL BE UPDATED HERE ON SATURDAY, AUGUST 7 AND ON TWITTER
 ==========================================================
 

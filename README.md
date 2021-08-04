@@ -1,4 +1,7 @@
 # DEFCON29Badge and SAO
+==========================================================
+MAKEITHACKIN BADGE CTF INFORMATION WILL BE UPDATED HERE ON SATURDAY, AUGUST 7 AND ON TWITTER
+==========================================================
 
 I'll update this readme as time goes on, but yeah... this is my first official MakeItHackin unoffical DEF CON badge.
 

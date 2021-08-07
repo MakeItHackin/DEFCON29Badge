@@ -1,7 +1,9 @@
 # DEFCON29Badge and SAO
 
-MAKEITHACKIN BADGE CTF INFORMATION WILL BE UPDATED HERE ON SATURDAY, AUGUST 7 AND ON TWITTER
+MakeItHackin Badge owners: There is a mini-CTF built into your badge. First person to answer the questions correctly wins an Arduino compatible starter kit!  Clues will be given if people are having trouble, but find a hacker to help you out! #badgelife  Use the link below to submit your answers
 ==========================================================
+
+https://docs.google.com/forms/d/e/1FAIpQLSc5swTKMzkG2ikkCQJD5kQ7jERDSQHb19w0Paf1MkKvqysbgA/viewform
 
 I'll update this readme as time goes on, but yeah... this is my first official MakeItHackin unoffical DEF CON badge.
 

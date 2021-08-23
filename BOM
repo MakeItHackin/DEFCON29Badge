@@ -1,24 +1,24 @@
 Bill of Materials
+Available on Google Docs Here: 
+https://docs.google.com/spreadsheets/d/1YplOA8jJzOemjNS-QdkuMc0G91xXPamrvrf68zBQsIk/edit?usp=sharing
 
-I'll update this later.  Need to add additional Power components for Badge and SAO components.
+Designator,Description,Value,Footprint,JLCPCB Part #,Link
+"BUTTON, RESET",Button,SPST,5_1_SPST,C223821,https://lcsc.com/product-detail/Tactile-Switches_Korean-Hroparts-Elec-K2-1187SQ-D4SW-06_C223821.html
+"C1, C2",Capacitor,10uF,C0805,C15850,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.html
+C11,Capacitor,1uF,C0805,C28323,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.html
+D4,Schottky Diode,MBR120,SOD-123,C130880,https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Shikues-MBR120LSF_C130880.html
+"NEO1, NEO2, NEO3, NEO4",NeoPixel (WS2812B) LEDs,NEOPIXEL5050,NEOPIXEL5050,C114587,https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812C_C114587.html
+PWR1,Power LED,Red,L0805,C84256,https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.html
+"R1, R24",Resistor,470,R0805,C17710,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F4700T5E_C17710.html
+R7,Resistor,10k,R0805,C17414,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html
+R18,Resistor,330,R0805,C17630,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.html
+R26,Resistor,100k,R0805,C165989,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-TC0525D1003T5E_C165989.html
+S1,Power Switch,DPDT,SWITCH_DPDT_SMD_AYZ0202,C318999,https://lcsc.com/product-detail/Slide-Switches_XKB-Connectivity-SS-3390S-L0_C318999.html
+U2,Analog Light Sensor,ALS-PT19-315C,ALS-PT19-315C,C146233,https://lcsc.com/product-detail/Ambient-Light-Sensors_Everlight-Elec-ALS-PT19-315C-L177-TR8_C146233.html
+U3,Fixed Voltage Regulator,SPX3819-3.3,SOT23-5,C51118,https://lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AP2112K-3-3TRG1_C51118.html
+U4,ATTiny85 Microcontroller,ATTINY85-S,SOIC8_EIAJ_208MIL,C89852,https://lcsc.com/product-detail/MICROCHIP_Microchip-Tech-ATTINY85-20SU_C89852.html
+OLED,128x32 Dot Matrix OLED Module with I2C interface based on SSD1306 chip,DISPLAY-OLED-128X32,DISPLAY-OLED-128X32,N/A,https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V
+P1,AVR ISP HEADER,AVRISP-6,AVRISP,N/A,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC032LFBN-RC/810210
+U$1,AAA Battery Pack (3 cell),AAA2,AAA2,N/A,https://www.digikey.com/en/products/detail/keystone-electronics/2479/303824
+U$3,SAO-1.69 Connector,SAO-1.69,2X3-SHROUDED-FEMALE,N/A,https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-NBPC-D03-ST-BK/4558818
 
-BADGE
-Part   Value               Device                  Package                 Description                                                                                                                                                                                  
-BUTTON 5_1_SPST            5_1_SPST                5_1_SPST               Button                                                                                                                                                                                                                                                                                                             
-C1-C2     10uF                C-USC0805               C0805               CAPACITOR, American symbol
-NEO1-NEO4   NEOPIXEL5050        NEOPIXEL5050            NEOPIXEL5050
-OLED   DISPLAY-OLED-128X32 DISPLAY-OLED-128X32     DISPLAY-OLED-128X32     128x32 Dot Matrix OLED Module with I2C interface based on SSD1306 chip
-P1     AVRISP-6            AVRISP-6                AVRISP                  AVR ISP HEADER
-PWR1   green               LED0805_NOOUTLINE       CHIPLED_0805_NOOUTLINE  LED
-R1,R24     470                 R-US_R0805              R0805                   RESISTOR, American symbol
-R7     10k                 R-US_R0805              R0805                   RESISTOR, American symbol
-R18    330                 R-US_R1206              R1206                   RESISTOR, American symbol
-RESET  5_1_SPST            5_1_SPST                5_1_SPST                Button                                                                                                                                                                                                                                                                                                       
-S1                         SWITCH-SPDT-SMD-AYZ0202 SWITCH_DPDT_SMD_AYZ0202 Single Pole, Double Throw (SPDT) Switch
-U$1    AAA2                AAA2                    AAA2                     3xAAA Battery Holder
-U$3    SAO-1.69            SAO-1.69                2X3-SHROUDED-FEMALE      SAO connector
-U1     ATTINY85-20MUR      ATTINY85-20MUR          QFN50P400X400X80-21N    AVR AVR® ATtiny Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 20-QFN-EP 
-U2     ALS-PT19-315C       LIGHT_ALS-PT19-315C     ALS-PT19-315C           ALS-PT19-315C - Analog Light Sensor
-
-SAO
-add SAO components here

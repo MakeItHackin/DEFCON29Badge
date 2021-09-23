@@ -1,5 +1,7 @@
 # DEFCON29Badge and SAO
 ==========================================================
+Purchase Fully Assembled Badge or Kit Here:
+https://www.tindie.com/products/makeithackin/makeithackin-def-con-29-electronic-badge/
 
 I'll update this readme as time goes on, but yeah... this is my first official MakeItHackin unoffical DEF CON badge.
 

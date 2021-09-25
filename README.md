@@ -7,6 +7,9 @@ https://www.tindie.com/products/makeithackin/makeithackin-def-con-29-electronic-
 Unboxing, Reviewing, and Programming a Fully-Assembled Badge:
 https://youtu.be/G82_usjS0wA
 
+Assembling the badge kit: 
+https://youtu.be/xcQIsIFcokc
+
 I'll update this readme as time goes on, but yeah... this is my first official MakeItHackin unoffical DEF CON badge.
 
 Badges will feature an ATTiny85 Microcontroller, OLED Display, RGB LEDs, and a SAO connector for all your shitty add-ons.

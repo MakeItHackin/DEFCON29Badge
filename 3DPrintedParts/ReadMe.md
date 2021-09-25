@@ -1,0 +1,1 @@
+I created some 3d printed parts to help me assemble hundreds of badges.  They are not necessary if you're building one or two badges, but helpful for multiple.  Maybe they'll give you some ideas as well.  They were designed in Fusion 360 and printed on a Prusa Mini+

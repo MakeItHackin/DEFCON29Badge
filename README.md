@@ -8,7 +8,7 @@ Unboxing, Reviewing, and Programming a Fully-Assembled Badge:
 https://youtu.be/G82_usjS0wA
 
 Assembling the badge kit: 
-https://youtu.be/xcQIsIFcokc
+https://youtu.be/OIYtvjFRpec
 
 I'll update this readme as time goes on, but yeah... this is my first official MakeItHackin unoffical DEF CON badge.
 

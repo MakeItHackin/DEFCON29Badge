@@ -1,13 +1,13 @@
-# DEFCON29Badge and SAO
+# DC 29 Badge and SAO
 ==========================================================
 
-Purchase Fully Assembled Badge or Kit Here:
+Purchase Fully Assembled Badge or Kit Here:  
 https://www.tindie.com/products/makeithackin/makeithackin-def-con-29-electronic-badge/
 
-Unboxing, Reviewing, and Programming a Fully-Assembled Badge:
+Unboxing, Reviewing, and Programming a Fully-Assembled Badge:  
 https://youtu.be/G82_usjS0wA
 
-Assembling the badge kit: 
+Assembling the badge kit:  
 https://youtu.be/OIYtvjFRpec
 
 I'll update this readme as time goes on, but yeah... this is my first official MakeItHackin unoffical DEF CON badge.
